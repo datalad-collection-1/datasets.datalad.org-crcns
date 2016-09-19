@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "7ffcf18e-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "23ab019a-63eb-4e0f-9af9-040ca2a4037b",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "354d76e9-66bf-47cf-9da7-31568064772f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/eye-1"
+      },
+      {
+        "@id": "3fa955f7-0010-4368-9a64-cfbb37fa24ee",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "89ff662d-4c69-4887-90a8-65bda42f6c95",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:29-04:00",
+    "type": "Dataset",
+    "version": "f7ef2e1645d8b2f11b021d1ffab65d7562e2fbb1"
+  }
+]

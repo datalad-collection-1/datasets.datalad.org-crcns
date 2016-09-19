@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "95562fd2-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "47f11951-dc20-4d4b-bf12-48f562863aa0",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "7fa853fc-0a16-450a-bbba-6cf7eefe96ba",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "e5e9b9d8-2bef-48a7-9fd6-0f8281f9147c",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/vim-3"
+      },
+      {
+        "@id": "fd412a5f-c477-430e-ba8b-052692b9fa2f",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/vim-3 [datalad-public]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:50:56-04:00",
+    "type": "Dataset",
+    "version": "114425a9c3ec533ef9c9314e6c40b82f44025b3c"
+  }
+]

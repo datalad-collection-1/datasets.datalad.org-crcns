@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "85d8ffbc-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "11f1a940-a4c3-4637-8a55-e0d2526b32b0",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/infe-1"
+      },
+      {
+        "@id": "2beb7037-1a77-4711-bee7-6cae27d71165",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "65e3b12e-1ed0-490b-aa03-ebade0636551",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "fba46258-86ca-4332-9a3c-0f3544e02fb1",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:38-04:00",
+    "type": "Dataset",
+    "version": "74f4b2bac1ebd666bf073753f5f6f1f1e9988515"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "91164eac-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "08fa499f-d59b-48e3-924c-475c56cb8dae",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ssc-1"
+      },
+      {
+        "@id": "3ad8906b-043b-4b3e-84c5-d9e0dc0c1ccb",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "724a5c88-dea4-4d63-bec7-6b347e467d54",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "fba35f9f-a169-4708-9911-cf316cfd8ec0",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:58-04:00",
+    "type": "Dataset",
+    "version": "05ad7d7f51157d8d8c6833d1ea735b5718285cc9"
+  }
+]

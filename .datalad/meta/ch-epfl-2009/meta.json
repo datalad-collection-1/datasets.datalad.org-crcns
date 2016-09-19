@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "6065deb0-7a7f-11e6-921b-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "10685720-ea02-42cc-83bd-524d66f3b6ab",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "15351d5f-90bd-4355-9563-ea8dc27f00d0",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "1bf2bbde-0f36-451b-9d3f-0bbabc196736",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ch-epfl-2009"
+      },
+      {
+        "@id": "9396d563-eeb3-4a11-ba01-7035506ec61d",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T09:30:17-04:00",
+    "type": "Dataset",
+    "version": "d6ae2b29a513109c0f6e0ef9eeb961eac155eb18"
+  }
+]
