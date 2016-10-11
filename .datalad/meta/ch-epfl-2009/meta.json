@@ -17,7 +17,7 @@
       },
       {
         "@id": "9396d563-eeb3-4a11-ba01-7035506ec61d",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/ch-epfl-2009 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",

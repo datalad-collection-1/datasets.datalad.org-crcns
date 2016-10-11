@@ -4,6 +4,10 @@
     "@id": "771a3e4c-7ae5-11e6-b936-002590f97d84",
     "availableFrom": [
       {
+        "@id": "a8086bb6-c261-424d-a985-ebf355dfb905",
+        "description": "/srv/datasets.datalad.org/www/crcns/fcx-1 [datalad-public]"
+      },
+      {
         "@id": "d9f61a86-5b5e-409d-92c6-deb5234cd739",
         "description": "yoh@smaug:/mnt/datasets/datalad/crawl/crcns/fcx-1"
       },
